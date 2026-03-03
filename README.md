@@ -83,7 +83,4 @@ docker-compose run --rm hardhat npx hardhat test
 - **Reentrancy**: Not directly applicable here but best practices followed.
 - **Data Integrity**: Chainlink provides secure data delivery.
 
-## Screenshots
-*(Add screenshots here after running the application)*
-- [Frontend Demo](path/to/screenshot1.png)
-- [Subgraph Playground](path/to/screenshot2.png)
+
